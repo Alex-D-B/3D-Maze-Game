@@ -2,4 +2,4 @@
 
 A randomly generated 3D maze, played in first person perspective.
 
-Go to Assets/Scripts/RoomGenerator.cs for the main algorithm.
+Go to Assets/scripts/RoomGenerator.cs for the main algorithm.
